@@ -1,0 +1,7 @@
+ihbar detay sayfasında bir ihbarın bilgilerini göstermek istiyorum ihbarın başlığı kategorisi mahallesi ve açıklamasını veritabanından çekip gösterir misin
+
+vatandaş sadece kendi ihbarını görsün saha şefi de sadece ekibine atanan ihbarı görsün yönetici ve operatör hepsini görebilsin bunu ekler misin
+
+operatör ve yönetici ihbarın durumunu değiştirebilsin vatandaşa not da yazabilsin ekip atanmamış ihbar çözüldü yapılamasın bunu da ekler misin
+
+durum çizelgesi yorumlar ve saha ekibi bilgisi de görünsün bunları ekler misin başka dosya gerekiyorsa onları da anlat

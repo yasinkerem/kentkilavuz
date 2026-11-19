@@ -1,0 +1,7 @@
+ihbar oluştur sayfasında vatandaşın dolduracağı formu yazar mısın
+
+veritabanına kaydetme işlemi hangi kısımda yapılıyor bu kodu hangi dosyaya yazmam gerekiyor
+
+her ihbara bir takip numarası vermek istiyorum ihbar açan kullanıcıya puan da vermek istiyorum fotoğraflı ihbara daha çok olsun bunları ekler misin
+
+kayıttan sonra ihbar detay sayfasına gitsin hata olursa kullanıcının yazdıkları formda kalsın bunları da ekler misin bu iş için başka hangi dosyalara ihtiyaç var onları da anlat

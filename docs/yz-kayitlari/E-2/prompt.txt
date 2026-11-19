@@ -1,0 +1,5 @@
+veritabanımız hazır ama tablolar boş panelleri denemek için örnek veri lazım nasıl örnek veri hazırlamalıyım
+
+önce mahalleler kullanıcılar kategoriler ve ekipler için örnek verileri verir misin kullanıcılar yönetici operatör saha şefi ve vatandaş olsun parolalar şifrelenmiş halde olsun
+
+şimdi ihbarlar sevkler ve yorumlar için de örnek veri ekle ihbarların durumu ve önceliği farklı olsun hepsini veritabanı dosyasına eklenecek şekilde örnek veri olarak ver

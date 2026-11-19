@@ -1,0 +1,5 @@
+ihbar oluştur ve ihbar düzenle sayfalarında aynı formu kullanacağım bunu tekrar tekrar yazmadan nasıl yapabilirim
+
+kategoriyi açılır liste yerine kartlardan seçelim öncelik seçeneği de ekleyelim bunu ekler misin
+
+enlem ve boylam kutularını kaldıralım düzenlerken mevcut fotoğrafı kaldırma seçeneği olsun bunu da ekler misin

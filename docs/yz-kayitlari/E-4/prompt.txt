@@ -1,0 +1,5 @@
+ihbar formunda birden fazla fotoğraf yok sadece tek fotoğraf eklenebilsin bunu ihbarlar tablosunda foto adında tek bir sütunda tutmak istiyorum formu ve kayıt kısmını buna göre değiştirir misin
+
+fotoğraflar herkese açık bir klasörde dursun ihbar sayfasında doğrudan gösterilsin bunu nasıl yaparım
+
+fotoğraf en fazla 2 mb olsun yanlış dosya seçilirse formun üstünde uyarı çıksın bunu ekler misin

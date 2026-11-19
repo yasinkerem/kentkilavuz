@@ -1,0 +1,7 @@
+php ve mysql ile kentkılavuz adında bir ihbar sistemi yapıyoruz vatandaş sokaktaki sorunu bildirecek operatör ekibe yönlendirecek veritabanını ben hazırlıyorum ama nereden başlayacağımı bilmiyorum önce er diyagramının taslağını ve sistemin akış şemasının taslağını çıkarmama yardım eder misin
+
+tabloları ve er diyagramını biz kendimiz belirledik tablo ve alan adları türkçe olsun mahalleler kullanicilar kategoriler ihbarlar ekipler sevkler destekler yorumlar calismalar acil_durumlar ve iletisim_mesajlari tabloları olacak er diyagramını buna göre yeniden çizer misin
+
+er diyagramımıza göre kullanıcılar mahalleler kategoriler ve ihbarlar tablolarını mysql de yazar mısın yabancı anahtarlar da olsun
+
+er diyagramındaki kalan tabloları da ekler misin phpmyadmin den içe aktaracağım
