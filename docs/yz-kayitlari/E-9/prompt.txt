@@ -1,0 +1,5 @@
+sitede her rolün farklı sayfaları var örneğin vatandaş kullanıcılar sayfasını açamamalı bunu her sayfada tek tek mi yazmalıyım yoksa ortak bir dosya olur mu
+
+giriş yapmayan biri sayfaya girmeye çalışırsa giriş sayfasına gitsin rolü uymayan birine de bu sayfaya erişim yetkiniz yok sayfası gösterilsin bunu ortak dosyaya yazar mısın
+
+yetkisiz sayfası ayrı bir dosya olsun sitenin ortak üst ve alt kısmı da görünsün giriş yapmadan girilirse giriş sayfasında bilgi mesajı çıksın bunu ekler misin

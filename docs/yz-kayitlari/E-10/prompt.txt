@@ -1,0 +1,5 @@
+panel sayfası yapıyorum giriş yapan herkes aynı panel sayfasını açsın sayfanın içinde rolüne göre farklı içerik gösterilsin vatandaş operatör saha şefi ve yönetici için ayrı paneller olacak yazar mısın
+
+üstte merhaba ad soyad yazsın yanında rol ve mahalle adı da görünsün bunu ekler misin
+
+panel sayfası çok uzadı her rolün içeriğini ayrı dosyaya koyup panel sayfasında ekleyelim vatandaşta yeni ihbar yöneticide kullanıcı ekle düğmesi üstte görünsün bunu da ekler misin

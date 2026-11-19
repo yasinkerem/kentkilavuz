@@ -1,0 +1,5 @@
+giriş sayfası yapıyorum e-posta ve parola ile giriş yapılsın parolalar şifrelenmiş kaydedilmişti yazar mısın
+
+giriş yapan herkes aynı panel sayfasına gitsin pasif hesaplar giriş yapamasın e-postamı hatırla kutusu da olsun bunları ekler misin
+
+çıkış işlemini de ekler misin çıkınca giriş sayfasında oturum kapatıldı yazsın

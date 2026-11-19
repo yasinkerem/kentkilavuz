@@ -1,0 +1,5 @@
+kayıt sayfası yapıyorum vatandaşlar ad soyad telefon e-posta mahalle ve parola ile kayıt olacak formu yazar mısın
+
+ad ve soyad tek kutuda olsun telefon boş bırakılabilsin parola en az 6 karakter olsun harf ve rakam içersin bir de kişisel verilerle ilgili onay kutusu ekler misin
+
+kayıt olunca giriş sayfasına gitsin giriş sayfasında e-posta hazır yazılı gelsin ve kayıt oldunuz mesajı görünsün bunu ekler misin

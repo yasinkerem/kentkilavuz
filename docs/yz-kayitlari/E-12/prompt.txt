@@ -1,0 +1,5 @@
+ortak sorgu dosyamı yazdım ama bazı sayfalarda veritabanı sorgusu hata veriyor sebebi ne olabilir
+
+sorguya gönderdiğim değerlerin hepsini yazı olarak gönderiyorum bu sorun çıkarır mı
+
+sayıları sayı olarak göndermek istiyorum ortak sorgu fonksiyonumu buna göre değiştirir misin

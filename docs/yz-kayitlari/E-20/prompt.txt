@@ -1,0 +1,5 @@
+projemiz için proje öneri dosyası hazırlıyoruz ihbar sistemi olacak problem tanımı nasıl yazılır
+
+vatandaş operatör saha şefi ve yönetici için persona hazırlar mısın
+
+bu kişilerden biri için kısa bir kullanım senaryosu yazar mısın

@@ -1,0 +1,7 @@
+yönetici için kullanıcı listesi sayfası yapıyorum yazar mısın
+
+rollere göre sekmeler olsun her sekmede kaç kullanıcı olduğu yazsın bunu ekler misin
+
+kullanıcı ekleme ve düzenleme için aynı formu kullanmak istiyorum düzenlerken parola boşsa eski parola kalsın bunu ekler misin
+
+kullanıcı silmeye çalışınca ihbarı olan kullanıcılarda hata alıyorum bu durumda silmek yerine hesabı pasif yapmak istiyorum yönetici kendi hesabını silememeli bunu da ekler misin

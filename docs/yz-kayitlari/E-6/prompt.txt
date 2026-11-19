@@ -1,0 +1,5 @@
+operatör paneli yapıyorum bekleyen ihbar sayısı acil olanlar sahadakiler ve bugün gelenler görünsün yazar mısın
+
+bekleyen ihbarlar listelensin önce acil olanlar sonra diğerleri gelsin çok uzamasın yanında saha ekiplerinin durumu da görünsün bunu ekler misin
+
+saha şefi paneli için de giriş yapan şefin ekiplerini ve ona atanmış açık işleri gösterir misin çalışmayı başlatma ve işi kapatma kısımlarını henüz yapmadık sayfada sonra eklenecek diye not kalsın
