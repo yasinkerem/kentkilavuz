@@ -1,0 +1,5 @@
+operatör ve yönetici için ihbar listesi sayfası yapıyorum yazar mısın
+
+kategoriye ve mahalleye göre de filtrelemek istiyorum bunu ekler misin
+
+yönetici ihbarı silebilsin operatör silemesin silerken onay sorulsun bunu ekler misin

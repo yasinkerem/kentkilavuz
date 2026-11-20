@@ -1,0 +1,5 @@
+ihbar sorgula sayfasında vatandaş giriş yapmadan takip numarasıyla ihbarının durumunu görebilsin yazar mısın
+
+numara adres çubuğundan da gelsin numara doğru biçimde değilse uyarı çıksın bunu ekler misin
+
+ihbar bulunursa durum çizelgesini kategoriyi konumu ve açıklamayı göstersin iptal edilmişse iptal edildi yazsın bunu ekler misin

@@ -1,0 +1,3 @@
+yardım hakkımızda ve iletişim sayfalarına yazı yazmam lazım ama ne yazacağımı bilmiyorum projemiz ihbar oluşturma ve takip sistemi yardım sayfasında neler olabilir
+
+hakkımızda için projenin amacını anlatan kısa bir paragraf yazar mısın sadece ihbar oluşturma takip ve durum görmeyi yaz olmayan özellik yazma iletişim bilgilerini ben yazacağım sen uydurma

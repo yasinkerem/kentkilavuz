@@ -1,0 +1,5 @@
+vatandaşın kendi ihbarlarını göreceği ihbarlarım sayfası yapıyorum yazar mısın
+
+durum filtresi yerine üstte durumlara göre sekmeler olsun her sekmede kaç ihbar olduğu yazsın bunu ekler misin
+
+düzenle ve iptal et düğmeleri sadece bekleyen ihbarlarda görünsün hiç ihbar yoksa bir mesaj çıksın bunu da ekler misin

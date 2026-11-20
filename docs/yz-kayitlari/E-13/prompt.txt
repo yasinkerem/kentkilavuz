@@ -1,0 +1,5 @@
+sitenin görünümünü css ile yapıyorum ama telefonda menü taşıyor sadece css ile açılır menü yapar mısın
+
+ekran küçüldüğünde kutular alt alta insin bunu ekler misin
+
+tablolar da dar ekranda sayfayı taşırmasın bunu da ekler misin

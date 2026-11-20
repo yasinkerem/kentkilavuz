@@ -1,0 +1,5 @@
+ihbar formunda silme ve iptal gibi işlemlerde kullanıcıya emin misin diye sormak istiyorum bunu javascript ile nasıl yaparım hangi dosyaya yazmalıyım
+
+bu onayı her formda tek tek yazmak yerine ortak bir javascript dosyasında toplayalım fotoğraf seçilince önizleme de gösterilsin bunu ekler misin
+
+fotoğraf çok büyükse uyarı versin açıklama yazarken karakter sayısı da görünsün kısaysa uyarı rengiyle gösterilsin bunu da ekler misin
